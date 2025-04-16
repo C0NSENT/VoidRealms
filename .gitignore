@@ -88,3 +88,10 @@ compile_commands.json
 
 *_qmlcache.qrc
 
+/.idea/editor.xml
+/.idea/misc.xml
+/.idea/.name
+/.idea/modules.xml
+/.idea/QtSettings.xml
+/.idea/vcs.xml
+/.idea/VoidRealms .iml
